@@ -26,4 +26,13 @@
     background-color: white;
     padding: 20px;
   }
+
+  .a-clickable {
+    cursor: pointer;
+    color: blue;
+  }
+
+  .a-clickable:hover {
+    font-weight: bold;
+  }
 }
