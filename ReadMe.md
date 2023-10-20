@@ -22,6 +22,27 @@ Coming soon...
 - feature/...
 - (fix/bugfix)
 
+## Standard Workflow
+
+```mermaid
+gitGraph TB:
+commit id: "1"
+branch develop
+checkout develop
+commit id: "2"
+branch october20
+commit id: "3"
+checkout develop
+branch jupiter
+checkout jupiter
+commit id: "3"
+commit id: "4"
+commit id: "5"
+commit id: "6"
+checkout develop
+merge jupiter # in der reaelen Welt: Pull Request
+```
+
 ## Noch was
 
 Coming soon...
