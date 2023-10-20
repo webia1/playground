@@ -24,4 +24,19 @@ Coming soon...
 
 Details folgen...
 
-## Noch was
+## Standard Workflow
+
+```mermaid
+gitGraph TB:
+commit id: "1"
+branch develop
+checkout develop
+commit id: "2"
+branch jupiter
+commit id: "3"
+commit id: "4"
+commit id: "5"
+commit id: "6"
+checkout develop
+merge jupiter # in der reaelen Welt: Pull Request
+```
