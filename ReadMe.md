@@ -43,6 +43,6 @@ checkout develop
 merge jupiter # in der reaelen Welt: Pull Request
 ```
 
-## Noch was
+## Coming Soon
 
 Coming soon...
