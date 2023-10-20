@@ -22,8 +22,6 @@ Coming soon...
 - feature/...
 - (fix/bugfix)
 
-Details folgen...
-
 ## Standard Workflow
 
 ```mermaid
@@ -44,3 +42,7 @@ commit id: "6"
 checkout develop
 merge jupiter # in der reaelen Welt: Pull Request
 ```
+
+## Coming Soon
+
+Coming soon...
